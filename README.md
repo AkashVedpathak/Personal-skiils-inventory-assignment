@@ -1,1 +1,1 @@
-# Personal-skiils-inventory-assignment
+# Personal-skills-inventory-assignment
